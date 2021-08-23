@@ -1,8 +1,6 @@
 _**TASK- CRACK LEAKED PASSWORD DATABASE**_
 ---
 
-*Respected Sir/Ma’am,*
-
 I have tried to crack the passwords from the leaked hashes given to me. It is to inform you that after analyzing the results, I have pointed out a number of irregularities and flaws in the organisation’s password policy and listed some solutions and steps to overcome these challenges.
 
 The passwords I found did not take a considerable amount of time. 13 out of the 19 given passwords was immediately cracked using Dictionary attack. And after an hour or so, the other 6 hashes were also cracked using Combinator and Masking attack using Hashcat.
